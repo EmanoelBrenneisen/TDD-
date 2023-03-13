@@ -6,7 +6,7 @@
     "scripts": {
       "test": "jest test/operacao.test.js"
     },
-    "author": "Rafael Cristiano",
+    "author": "Emanoel Brenneisen",
     "license": "ISC",
     "dependencies": {
       "jest": "^29.4.2",
